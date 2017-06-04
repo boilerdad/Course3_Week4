@@ -1,7 +1,7 @@
 # Codebook - tidyDataset.txt
 
-### Based on:
--------------------------------------------------------------
+Based on:
+
 Version 1.0
 
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
@@ -23,10 +23,10 @@ The sensor acceleration signal, which has gravitational and body motion componen
 low-pass filter into body acceleration and gravity. 
 The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain. 
 See 'features_info.txt' for more details. 
-------------------------------------------------------------------
 
-This dataset contains 180 observations on 86 measurements taken from a smartphone. 
-There are 30 participants in the study, and each are measured on 6 different activities.
+
+### This dataset contains 180 observations on 86 measurements taken from a smartphone. 
+### There are 30 participants in the study, and each are measured on 6 different activities.
 
 ### The variables are:
 
