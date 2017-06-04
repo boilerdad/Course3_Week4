@@ -1,19 +1,16 @@
-"# README.md for Week 4 run_analysis.R script" 
+"# README.md for Week 4 run_analysis.R script
 
 The script "run_analysis.R is writtent to produce a tidy data set using data provided by
-
-==================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
 DITEN - Università degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
-==================================================================
 
 More information about the original dataset is available at
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-==================================================================
+
 
 This script is designed to accomplish the following (taken from the course assignment description):
 1-Merges the training and the test sets to create one data set.
