@@ -19,6 +19,7 @@ acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experi
 data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected 
 for generating the training data and 30% the test data. 
 
+
 The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width 
 sliding windows of 2.56 sec and 50% overlap (128 readings/window). The sensor acceleration signal, which has gravitational 
 and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. 
