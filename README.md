@@ -1,4 +1,4 @@
-"# README.md for Week 4 run_analysis.R script
+# README.md for Week 4 run_analysis.R script
 
 The script "run_analysis.R is writtent to produce a tidy data set using data provided by
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
@@ -12,14 +12,14 @@ More information about the original dataset is available at
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
-This script is designed to accomplish the following (taken from the course assignment description):
+## This script is designed to accomplish the following (taken from the course assignment description):
 1-Merges the training and the test sets to create one data set.
 2-Extracts only the measurements on the mean and standard deviation for each measurement.
 3-Uses descriptive activity names to name the activities in the data set
 4-Appropriately labels the data set with descriptive variable names.
 5-From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The script is written as follows:
+## The script is written as follows:
 
 1)  Set working directory
 2)  Check to make sure required packages are installed and loaded to R
