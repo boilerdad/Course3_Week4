@@ -64,7 +64,7 @@ The final data table, tidyDataset, in accordance with the definition established
     2) Each observation forms a row
     3) Each type of obervational unit form a table
     
-tidyDataset meets each of these requirements since:
+## tidyDataset meets each of these requirements since:
     1)  each column contains only one variable is an unique identifier of subect and activity or represents a single unique measurement 
         of a mean of a mean or standard deviation from the original data sets.
     2)  each row contians only one observation of 86 measurements of an unique respondent performing an unique activity
